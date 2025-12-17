@@ -1,14 +1,9 @@
 # 📊 Customer Churn Analytics  
 **Tools Used:** Excel | SQL (MySQL) | Power BI  
 
-<!-- Main Dashboard Snapshot -->
-![Customer Churn Main Dashboard](PASTE_IMAGE_LINK_HERE)
+#### 🔹 Customer Churn Main Dashboard
+![Customer Churn Main Dashboard](https://github.com/Santhosh18sk/Churn-Analysis/blob/main/Dashboard%20Images/Main%20Dashboard.png?raw=true)
 
-<!-- Active Customers Dashboard Snapshot -->
-![Active Customers Dashboard](PASTE_IMAGE_LINK_HERE)
-
-<!-- Gender-based or Customer Analysis Dashboard Snapshot -->
-![Customer Analysis by Gender Dashboard](PASTE_IMAGE_LINK_HERE)
 
 ---
 
@@ -129,7 +124,20 @@ SQL analysis helped **confirm and strengthen** insights observed in the Power BI
 - Country  
 - Activity Status  
 
+
+
 ---
+
+#### 🔹 Active Customers Dashboard
+![Active Customers Dashboard](https://github.com/Santhosh18sk/Churn-Analysis/blob/main/Dashboard%20Images/Active%20Customers.png?raw=true)
+
+---
+
+#### 🔹 Customer Analysis by Gender Dashboard
+![Customer Analysis by Gender Dashboard](https://github.com/Santhosh18sk/Churn-Analysis/blob/main/Dashboard%20Images/Female%20Customers.png?raw=true)
+
+---
+
 
 ## 🔎 Insights & Findings
 
